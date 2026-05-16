@@ -306,6 +306,7 @@ Certified in MongoDB covering database concepts, CRUD operations, and NoSQL data
 
 ###  Portfolio & Profile Repository
 🔗 https://github.com/sanikatsgowda-ai/sanikatsgowda-ai 
+
 ➤ GitHub profile configuration repository  
 ➤ Contains profile README and personal setup  
 
