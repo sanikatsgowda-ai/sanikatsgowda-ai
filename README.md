@@ -80,7 +80,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-F5F5F5?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn" />
   </a>
   
-  <a href="https://github.com/sanikatsgowda-ai/sanika">
+  <a href="https://github.com/sanikatsgowda-ai/sanikatsgowda-ai">
     <img src="https://img.shields.io/badge/GitHub-F5F5F5?style=for-the-badge&logo=github&logoColor=181717" alt="GitHub" />
   </a>
 </p>
@@ -119,7 +119,7 @@
 **Full Stack Developer**
 
 📧 [Gmail](mailto:sanikatsgowda@gmail.com) | 📍 Thirthahalli, Karnataka, India  
-🔗[GitHub](https://github.com/sanikatsgowda-ai/sanika)|🔗[LinkedIn](https://www.linkedin.com/in/sanika-ts-gowda-/)
+🔗[GitHub](https://github.com/sanikatsgowda-ai/sanikatsgowda-ai)|🔗[LinkedIn](https://www.linkedin.com/in/sanika-ts-gowda-/)
 
 
 ---
@@ -305,7 +305,7 @@ Certified in MongoDB covering database concepts, CRUD operations, and NoSQL data
 ##  All GitHub Projects
 
 ###  Portfolio & Profile Repository
-🔗 https://github.com/sanikatsgowda-ai/sanika  
+🔗 https://github.com/sanikatsgowda-ai/sanikatsgowda-ai 
 ➤ GitHub profile configuration repository  
 ➤ Contains profile README and personal setup  
 
