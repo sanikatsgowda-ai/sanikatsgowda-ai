@@ -16,7 +16,7 @@
   <br><br>
 
   <!-- GitHub Streak -->
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Sanikatsgowda-ai&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak Stats" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=sanikatsgowda-ai&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak Stats" />
   <br><br>
 
   <!-- Tech Stack -->
